@@ -190,7 +190,7 @@ p {
 }
 
 .Insc img{
-  width: 40%;
+  width: 70%;
   border-radius: 0px;
   margin-left: auto;
   margin-right: auto;
@@ -208,7 +208,7 @@ p {
 .Insc a {
   background: rgb(0,0,0,.9);
   color: white;
-  width:40%;
+  width:70%;
 }
 
 
